@@ -1,8 +1,8 @@
 /**
  *
  * @authors
- * Daniel Nekrassov - nekrassov - 314918012
- * Lior Grinberg - liorgrinberg - 308322866
+ * Daniel Nekrassov
+ * Lior Grinberg
  *
  * FibonacciHeap
  *
